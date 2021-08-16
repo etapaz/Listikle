@@ -37,6 +37,15 @@ font-size: 1.125em; /* 18px */
 }
 
 
+.txtgrey
+{
+	color: #666;
+	font-size: .85em;
+	font-style: italic;
+
+}
+
+
 hr
 {
 	height: 0;
