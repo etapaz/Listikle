@@ -21,10 +21,10 @@ h1,h2,h3,h4,h5,h6
 	line-height: 1.1;
 }
 
-h1 { font-size: 2.70em; font-weight: 800;} /* 36px */
-h2 { font-size: 2.2em; font-weight: 800;} /* 28px */
-h3 { font-size: 1.375em; font-weight: 800;} /* 22px */
-h4 { font-size: 1.125em; font-weight: 800; } /* 18px */
+h1 { font-size: 3.70em; font-weight: 400;} /* 36px */
+h2 { font-size: 2.2em; font-weight: 400;} /* 28px */
+h3 { font-size: 1.375em; font-weight: 400;} /* 22px */
+h4 { font-size: 1.125em; font-weight: 400; } /* 18px */
 h5 { font-size: 1em; } /* 16px */
 h6 { font-size: .875em; } /* 14px */
 
@@ -69,7 +69,6 @@ Layout styles
 {
 	max-width: 40em;
 	margin: 0 auto;
-	background-color: #ffffff;
 }
 
 .containerbkg
@@ -277,3 +276,6 @@ Wide styles
   }
 
 
+  .bgblue {
+	background-color: lightblue;
+  }
